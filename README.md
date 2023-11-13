@@ -1,1 +1,0 @@
-# CompAlgo-Challenge-2
